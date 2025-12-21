@@ -1,0 +1,17 @@
+<!-- 页脚部分 -->
+<footer class="d-flex w-100 justify-content-center">
+  <div class="d-flex flex-column align-items-center">
+    <!-- 版权信息 -->
+    <p class="mb-0">
+      © <time>{{ 'now' | date: '%Y' }}</time>
+      <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
+      {% if site.data.locales[include.lang].copyright.brief %}
+      <span
+        data-bs-toggle="tooltip"
+        data-bs-placement="top"
+        title="{{ site.data.locales[include.lang].copyright.verbose }}"
+      >{{ site.data.locales[include.lang].copyright.brief }}</span>
+      {% endif %}
+    </p>
+  </div>
+</footer>
