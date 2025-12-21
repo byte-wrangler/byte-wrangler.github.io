@@ -98,7 +98,7 @@ cdn:
 
 # 侧边栏上的头像，支持本地或 CORS 资源
 # 您可以将头像图片放在 assets/img/avatar.jpg，然后取消下面的注释
- avatar: /assets/img/avatar.jpg
+avatar: /assets/img/avatar.jpg
 
 # 用于 SEO `og:image` meta 标签的全站社交预览图片的 URL。
 # 可以在 front matter 中通过自定义的 `page.image` 覆盖。
