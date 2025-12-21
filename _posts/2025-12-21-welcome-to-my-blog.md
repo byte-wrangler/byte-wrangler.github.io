@@ -22,10 +22,9 @@ tags: [博客, 记录]
 
 目前我主要关注以下技术领域：
 
-- **编程语言**: Python, JavaScript, Java
-- **前端开发**: React, Vue.js
-- **后端开发**: Node.js, Spring Boot
-- **数据库**: MySQL, MongoDB, Redis
+- **编程语言**: Java,Python
+- **后端开发**: Spring,Spring Boot,Mybatis
+- **数据库**: MySQL, Redis
 - **工具**: Git, Docker, Linux
 
 ### 💭 写博客的初衷
@@ -43,7 +42,7 @@ tags: [博客, 记录]
 
 在接下来的博客中，我计划：
 
-- [ ] 分享 Jekyll + GitHub Pages 建站过程
+- [ ] 汇总收集之前散落在各个平台or本地的博客到本平台
 - [ ] 记录常用的开发工具和配置
 - [ ] 整理算法和数据结构笔记
 - [ ] 分享项目实战经验
