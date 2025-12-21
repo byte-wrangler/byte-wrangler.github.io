@@ -1,10 +1,9 @@
 ---
-title: "Java 基础知识总结"
+title: "《Java 基础知识总结》"
 date: 2022-08-15 10:00:00 +0800
 categories: [编程语言, Java]
 tags: [Java, 基础知识, 数据类型, IO]
 ---
-# 《Java 基础》
 ## 一、基本数据类型
 
 Java 中的基本数据类型分为四大类：
