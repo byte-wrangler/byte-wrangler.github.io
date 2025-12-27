@@ -221,6 +221,8 @@ action = "call_tool|weather|北京"
 - 内置防卡住机制
 - 消息管理更规范
 
+![ReAct Agent V3 架构图](/assets/img/posts/2025-07-21-building-agent-from-scratch/react-agent-v3.png)
+
 **关键改进**：
 
 1. **标准化的消息格式**
