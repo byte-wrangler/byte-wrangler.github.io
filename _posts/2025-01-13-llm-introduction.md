@@ -1,5 +1,5 @@
 ---
-title: "LLM个人笔记"
+title: "《LLM个人笔记》"
 date: 2025-01-13 10:00:00 +0800
 categories: [技术探索, 人工智能]
 tags: [LLM, AI]
