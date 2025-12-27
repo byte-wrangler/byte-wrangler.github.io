@@ -1,5 +1,5 @@
 ---
-title: "《Redis 核心知识详解》"
+title: "《Redis 知识个人笔记》"
 date: 2022-10-12 10:00:00 +0800
 categories: [数据库, Redis]
 tags: [Redis, 缓存, 分布式锁, 持久化, 集群]

@@ -1,5 +1,5 @@
 ---
-title: "《Spring 框架核心知识》"
+title: "《Spring 框架知识个人笔记》"
 date: 2022-10-15 15:00:00 +0800
 categories: [Java框架, Spring]
 tags: [Spring, SpringBoot, IOC, AOP, SpringMVC, 事务管理]

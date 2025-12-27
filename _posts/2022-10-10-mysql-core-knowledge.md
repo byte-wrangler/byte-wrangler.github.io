@@ -1,5 +1,5 @@
 ---
-title: "《MySQL 核心知识详解》"
+title: "《MySQL 知识个人笔记》"
 date: 2022-10-10 14:00:00 +0800
 categories: [数据库, MySQL]
 tags: [MySQL, 索引, 事务, MVCC, 主从复制]
