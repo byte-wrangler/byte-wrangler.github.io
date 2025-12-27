@@ -1,5 +1,5 @@
 ---
-title: 消息中间件核心知识
+title: 《消息中间件知识个人笔记》
 date: 2022-11-01 10:00:00 +0800
 categories: [消息]
 tags: [消息队列, RabbitMQ, RocketMQ, Kafka, 面试]
