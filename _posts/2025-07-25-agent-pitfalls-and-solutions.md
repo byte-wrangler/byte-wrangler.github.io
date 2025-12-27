@@ -574,8 +574,9 @@ def format_final_result(self, agent_output: str) -> dict:
 - [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172)
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
-- [百炼 - OpenAI 兼容接口文档](https://bailian.console.aliyun.com/?tab=api#/api/?type=model&url=https%3A%2F%2Fhelp.aliyun.com%2Fdocument_detail%2F2712576.html)
 - [Building Effective Agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
+- [百炼 - OpenAI 兼容接口文档](https://bailian.console.aliyun.com/?tab=api#/api/?type=model&url=https%3A%2F%2Fhelp.aliyun.com%2Fdocument_detail%2F2712576.html)
+
 
 ---
 
