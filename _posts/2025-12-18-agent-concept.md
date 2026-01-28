@@ -195,7 +195,7 @@ graph TB
 
 #### 扩展知识
 
-如果你熟悉 LangGraph 等框架，它还有一个汉其相近的概念 **State**。State ≠ Context，也 ≠ Memory，**State 就是 Agent 在某一时刻的运行快照**，可用于备份与恢复。比如 Agent 运行到一刻，需要人类的介入而中断，此时就会打一个快照，等中断结束后，快速从此处照恢复。
+如果你熟悉 LangGraph 等框架，它还有一个与其相近的概念 **State**。State ≠ Context，也 ≠ Memory，**State 就是 Agent 在某一时刻的运行快照**，可用于备份与恢复。比如 Agent 运行到一刻，需要人类的介入而中断，此时就会打一个快照，等中断结束后，快速从此处照恢复。
 
 | 阶段 | Prompt | Context | Long-term Memory | State |
 |------|--------|---------|------------------|-------|
