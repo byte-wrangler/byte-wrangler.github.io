@@ -1,14 +1,17 @@
 ---
-title: Agent相关概念澄清
+title: 《Agent相关概念澄清》
 date: 2025-12-18 19:38:00 +0800
 categories: [人工智能, Agent]
 tags: [AI, Agent, LLM, 自主智能体]
 published: false
 ---
+## 零、写在前面
+
+最近频繁和同事就LLM和Agent相关的讨论，讨论下来发现大家对于LLM和agent的认知相差有点大，有的亲自上手实践过ai项目，有的则很多概念理解不深，所以决定写一个文章来 clarifying 各种相关概念。
 
 ## 一、什么是 Agent？
 
-我首次接触 Agent 源自 2023年6月 OpenAI 团队的 Lilian Weng 发表的博客《[LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)》。Agent 是在 LLM 基础上进化而来，从单纯"大脑"进化出了手脚，拥有了目标、更接近一个完整的人，中文也被叫做"智能体"，所以 Agent 的四大核心能力：**目标驱动、工具使用、记忆保持、自主决策**，有些人会把简单的 RAG+LLM 误认为是 Agent，这是不恰当的，这个智能体缺少了工具这只手脚，能力太重限。
+Agent 是在 LLM 基础上进化而来，从单纯"大脑"进化出了手脚，拥有了目标、更接近一个完整的人，中文也被叫做"智能体"，所以 Agent 的四大核心能力：**目标驱动、工具使用、记忆保持、自主决策**，有些人会把简单的 RAG+LLM 误认为是 Agent，这是不恰当的，这个智能体缺少了工具这只手脚，能力太重限。
 
 ## 二、Agent 的四大核心能力
 
