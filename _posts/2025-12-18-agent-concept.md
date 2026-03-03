@@ -171,7 +171,7 @@ Context 就是 short-term memory，即 LLM 当前推理所依赖的 token 窗口
 **完整关系图**：
 
 ```mermaid
-graph TB
+graph LR
     A[MCP Server] --> B[Tool List]
     C[User Request] --> D[System Prompt]
     E[Long-term Memory<br/>检索注入] --> F[Context]
@@ -339,7 +339,7 @@ graph TD
 - **Executor 按计划执行**，每步记录状态（如 `step=3, retry=1`），支持中断恢复。
 
 ```mermaid
-graph TD
+graph LR
     A[User Request] --> B[Planner Agent]
     B --> C[Plan]
     C --> D[Executor Agent]
@@ -388,7 +388,7 @@ graph TD
 - 若失败，Reviewer 与 Coder 协商修正方案
 
 ```mermaid
-graph TD
+graph LR
     A[User Request] --> B[Manager Agent]
     B -->|Plan| C[Planner Agent]
     B -->|All Done| D[Final Answer]
@@ -523,7 +523,7 @@ graph LR
 Agent 主动决定"何时查、查什么"。
 
 ```mermaid
-graph TD
+graph LR
     A[User Request] --> B[Agent Reasoning]
     B --> C{Need External Knowledge?}
     C -->|Yes| D[RAG Tool: Retrieve Relevant Docs]
